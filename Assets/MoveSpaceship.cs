@@ -8,6 +8,7 @@ public class MoveSpaceship : MonoBehaviour
     private float deltaX, deltaY;
     private Rigidbody2D rb;
 
+
     // Start is called before the first frame update
     private void Start()
     {
